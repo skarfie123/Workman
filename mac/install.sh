@@ -1,1 +1,1 @@
-cp -r Workman.bundle "/Library/Keyboard Layouts/"
+sudo cp -r Workman.bundle "/Library/Keyboard Layouts/"
